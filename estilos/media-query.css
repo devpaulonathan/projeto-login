@@ -42,5 +42,12 @@
         float: left;
         width: 50%;
     }
+    section#login div#form h1 {
+        font-size: 2em;
+    }
+
+    section#login div#form p {
+        font-size: 1.2em;
+    }
     
 }
